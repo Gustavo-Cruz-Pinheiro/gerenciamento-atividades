@@ -20,7 +20,7 @@
       "supportsTablet": true
     },
     "android": {
-      "package": "com.gustavocruzpinheiro.gerenciamento-atividades",
+      "package": "com.gustavo.pinheiro.gerenciamentoatividades",
       "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
@@ -29,6 +29,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "cdcb587a-fbd9-4343-8909-854a710f9d4c"
+      }
     }
   }
 }

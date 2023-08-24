@@ -35,26 +35,27 @@ As seguintes funcionalidades estão presentes no projeto:
 * [React Native](https://reactnative.dev/) - Framework Mobile
 * [Expo](https://expo.io/) - Facilitador de visualização
 * [SQLite](https://www.sqlite.org/index.html) - Banco de Dados
-* [VsCode](https://code.visualstudio.com/) - IDE de Desenvolvimento
+* [VSCode](https://code.visualstudio.com/) - IDE de Desenvolvimento
 
 * Dependências
-  * @expo/webpack-config": "^0.17.2",
-  * @react-native-community/datetimepicker": "^6.5.2",
-  * @react-navigation/native": "^6.1.6",
-  * @react-navigation/native-stack": "^6.9.12",
-  * date-fns": "^2.30.0",
-  * expo": "^47.0.0",
-  * expo-sqlite": "~11.0.0",
-  * expo-status-bar": "~1.4.2",
-  * react": "^18.1.0",
-  * react-dom": "^18.1.0",
-  * react-native": "^0.70.8",
-  * react-native-gesture-handler": "~2.8.0",
-  * react-native-reanimated": "~2.12.0",
-  * react-native-safe-area-context": "4.4.1",
-  * react-native-screens": "~3.18.0",
-  * react-native-vector-icons": "^8.0.0",
-  * react-native-web": "~0.18.7"
+  * @expo/webpack-config
+  * @react-native-community/datetimepicker
+  * @react-navigation/native
+  * @react-navigation/native-stack
+  * date-fns
+  * expo
+  * expo-sqlite
+  * expo-status-bar
+  * react
+  * react-dom
+  * react-native
+  * react-native-gesture-handler
+  * react-native-reanimated
+  * react-native-safe-area-context
+  * react-native-screens
+  * react-native-vector-icons
+  * react-native-web
+  * eas-cli
 
 </br>
 
