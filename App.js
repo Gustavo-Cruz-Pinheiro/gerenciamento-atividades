@@ -109,7 +109,7 @@ const App = () => {
           options={{
             title: 'Ver por Data',
             headerStyle: {
-              backgroundColor: '	#808000',
+              backgroundColor: '#808000',
             },
             headerTintColor: '#fff',
             headerTitleStyle: {
